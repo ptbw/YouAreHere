@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Ouput dirs
+bin
+obj
+.vscode
